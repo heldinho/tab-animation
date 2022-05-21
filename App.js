@@ -121,7 +121,7 @@ const Indicator = ({ measures, scrollX }) => {
     indicator: {
       position: 'absolute',
       height: 4,
-      width: indicatorWidth,
+      width: '5%', // indicatorWidth,
       left: 0,
       bottom: 0,
       backgroundColor: 'white',
